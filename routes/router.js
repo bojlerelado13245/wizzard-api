@@ -5,9 +5,9 @@ const router = express.Router();
 let wizards = [
   {
     id: 1,
-    name: "Harry Potter",
-    magic_wand: "long",
-    house_name: "John Doe way 12",
+    name: "Szia Uram",
+    magic_wand: "very big",
+    house_name: "Futrinka utca 7.",
     free: false,
   },
 ];
